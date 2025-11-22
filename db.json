@@ -20,20 +20,6 @@
       "email": "carlos.lopez@example.com",
       "edad": 21,
       "cursoId": 1
-    },
-    {
-      "id": "32e4",
-      "nombre": "Victor Elias Chung Coelho",
-      "email": "chungcoelhove070@gmail.com",
-      "edad": 19,
-      "cursoId": 3
-    },
-    {
-      "id": "ac98",
-      "nombre": "Victor Elias Chung Coelho",
-      "email": "chungcoelhove070@gmail.com",
-      "edad": 19,
-      "cursoId": 1
     }
   ],
   "cursos": [
