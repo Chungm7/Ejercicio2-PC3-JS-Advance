@@ -61,7 +61,13 @@ function AlumnosAlova() {
     }
 
     try {
+      // Calcular el siguiente ID basado en el máximo ID existente
+      const maxId = alumnos.length > 0 
+        ? Math.max(...alumnos.map(alumno => alumno.id))
+        : 0;
+      
       const nuevoAlumno = {
+        id: maxId + 1,
         nombre: formData.nombre,
         email: formData.email,
         edad: parseInt(formData.edad),
