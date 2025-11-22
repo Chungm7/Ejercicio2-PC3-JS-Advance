@@ -20,6 +20,20 @@
       "email": "carlos.lopez@example.com",
       "edad": 21,
       "cursoId": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Victor",
+      "email": "chungcoelhove070@gmail.com",
+      "edad": 19,
+      "cursoId": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Elias",
+      "email": "groupgennesis@gmail.com",
+      "edad": 21,
+      "cursoId": 2
     }
   ],
   "cursos": [
