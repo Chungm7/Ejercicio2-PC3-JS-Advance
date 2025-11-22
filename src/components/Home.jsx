@@ -28,26 +28,6 @@ function Home() {
             </p>
           </div>
         </div>
-
-        <div className="features">
-          <h2>Características</h2>
-          <ul>
-            <li>✅ Visualización de alumnos en tablas interactivas</li>
-            <li>✅ Registro de nuevos alumnos con validación</li>
-            <li>✅ Relación con cursos disponibles</li>
-            <li>✅ Uso de hooks: useState y useEffect</li>
-            <li>✅ Dos implementaciones: Axios y Alova</li>
-          </ul>
-        </div>
-
-        <div className="instructions">
-          <h3>Instrucciones de uso:</h3>
-          <ol>
-            <li>Inicia el servidor JSON con: <code>npm run server</code></li>
-            <li>Navega por el menú superior para acceder a las diferentes secciones</li>
-            <li>Compara las implementaciones con Axios y Alova</li>
-          </ol>
-        </div>
       </div>
     </div>
   );
